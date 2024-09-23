@@ -1,9 +1,9 @@
-import Profilepic from '../assets/Profilepic.jpg';
+import Profilepic from '../assets/Profilepic.png';
 
 function Home() {
   return (
     <>
-  <div className="introdiv  flex  md:flex-row justify-between items-center h-screen px-4 md:px-10">
+  <div className="introdiv mx-auto pb-11 pt-28 mt-12 flex  md:flex-row justify-between items-center h-screen px-4 md:px-10">
   <div className="md:w-1/2 ">
     <h1 className="text-white font-bold text-3xl lg:text-5xl mb-4">
       I'm Hussain, a Frontend Web Developer

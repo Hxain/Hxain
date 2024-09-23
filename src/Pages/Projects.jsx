@@ -5,7 +5,7 @@ function Projects() {
         <div className="relative w-64 h-48 bg-blue-200 rounded border-4 border-blue-300 shadow-md m-5 overflow-hidden transition-all duration-500 ease-in-out transform hover:scale-105 hover:w-[50vh] hover:h-[70vw]">
           <div className="absolute top-0 left-0 w-full bg-blue-100 border-b border-blue-200 flex items-center justify-center p-2">
             <a
-              href="/"
+              href="https://hxain.github.io/Hxain/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-500 text-white rounded px-4 py-2 hover:bg-blue-600 transition duration-300 ease-in-out"
